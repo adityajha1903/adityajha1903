@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya jha</h1>
 <h3 align="center">A passionate android developer from India</h3>
-<img align="right" alt="Coding" widh="100" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
+<img align="right" alt="Coding" width="200"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 - 🌱 I’m currently learning **Flutter and Dart**
 

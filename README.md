@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Android, kotlin**
 
-- 📫 How to reach me **adi.jha1903@gmail.com**
+- 📫 How to reach me **[adityajha_1903](https://twitter.com/adityajha_1903)**
 
 - ⚡ Fun fact **I love being rational**
 

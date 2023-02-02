@@ -2,6 +2,8 @@
 <h3 align="center">A passionate android developer from India</h3>
 <img align="right" alt="Coding" width="500"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityajha1903&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamsharma2026" /> </p>
+
 - 🌱 I’m currently learning **Flutter and Dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityajha1903](https://github.com/adityajha1903)

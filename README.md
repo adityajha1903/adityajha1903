@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityajha1903&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamsharma2026" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **iOS and Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityajha1903](https://github.com/adityajha1903)
 

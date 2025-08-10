@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Android, kotlin**
 
-- 📫 How to reach me **[adityajha_19_]([https://twitter.com/adityajha_19_])**
+- 📫 How to reach me **[adityajha_19_](https://twitter.com/adityajha_19_)**
 
 - ⚡ Fun fact **I love being rational**
 
